@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Generate Custom Pac-Man SVG
         # Put YOUR custom repository path here:
-        uses: G0DBeasT/save_steve@Master
+        uses: G0DBeasT/save_steve@master
         with:
           github_user_name: G0DBeasT
           games: 'pacman'
