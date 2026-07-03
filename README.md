@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **G0DBeasT/G0DBeasT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G0DBeasT/G0DBeasT/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G0DBeasT/G0DBeasT/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/G0DBeasT/G0DBeasT/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G0DBeasT/G0DBeasT/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G0DBeasT/G0DBeasT/output/pacman-contribution-graph.svg" />
+  <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/G0DBeasT/G0DBeasT/output/pacman-contribution-graph.svg" />
 </picture>
