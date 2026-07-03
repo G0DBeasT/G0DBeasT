@@ -17,9 +17,9 @@ jobs:
     steps:
       - name: Generate Custom Pac-Man SVG
         # Put YOUR custom repository path here:
-        uses: G0DBeasT/save_steve
+        uses: G0DBeasT/save_steve@Master
         with:
-          github_user_name:G0DBeasT
+          github_user_name: G0DBeasT
 
       - name: Push generated SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
