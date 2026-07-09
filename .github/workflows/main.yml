@@ -8,7 +8,7 @@ on:
   workflow_dispatch: # Allows you to run it manually from the Actions tab
   push:
       branches:
-          - Master
+          - master
 
 jobs:
   generate:
@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Generate Custom Pac-Man SVG
         # Put YOUR custom repository path here:
-        uses: G0DBeasT/save_steve@Master
+        uses: G0DBeasT/save_steve@master
         with:
           github_user_name: G0DBeasT
           games: 'pacman'
