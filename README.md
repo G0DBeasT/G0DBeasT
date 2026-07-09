@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 <p align="center">
 <!-- Readme Frames Animation (Requires the forked repo setup we discussed) -->
 <img src="https://raw.githubusercontent.com/G0DBeasT/readme-frames/master/assets/intro-card.gif" alt="Animated Intro Card" width="800" />
+<br />
+<img src="https://raw.githubusercontent.com/G0DBeasT/readme-frames/master/assets/skills-ticker.gif" alt="Skills Ticker" width="800" />
+<br />
+<img src="https://raw.githubusercontent.com/G0DBeasT/readme-frames/master/assets/commit-chart.gif" alt="Commits Graph" width="800" />
 
 <!-- Your new instant Vercel API Stats Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0DBeasT&theme=tokyonight" alt="GitHub Profile Stats" width="400" />
