@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/G0DBeasT/readme-frames/master/assets/commit-chart.gif" alt="Commits Graph" width="800" />
 
 </details>
+<details>
 <summary><code>contributions</code></summary>
 
 <p align="center">
