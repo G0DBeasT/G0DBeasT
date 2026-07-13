@@ -11,7 +11,7 @@
 <br />
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0DBeasT&theme=github_dark" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0DBeasT&theme=github-dark" /></td>
     <td><img src="https://streak-stats.demolab.com?user=G0DBeasT&theme=github-dark" alt="GitHub Streak" /></td>
   </tr>
   <tr>
