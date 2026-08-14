@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=6E6E6E&width=500&lines=say+hi+to+kitty.;its+my+terminal+kitty.;fedora+%7C+neovim."/>
 </p>
 <p align="right">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" alt="Pixel Art Cat" width="180" />
+<img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" alt="Pixel Art Cat" width="180" />
 </p>
 <details>
 <summary><code>Stats</code></summary>
