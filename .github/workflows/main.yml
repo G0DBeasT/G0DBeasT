@@ -25,6 +25,14 @@ jobs:
           github_user_name: G0DBeasT
           games: 'pacman'
 
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: G0DBeasT
+          options: theme=github-dark&area=true&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push generated SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

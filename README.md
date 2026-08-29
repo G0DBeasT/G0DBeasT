@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=G0DBeasT&theme=github-dark&area=true&hide_border=true" />
+      <img src="https://raw.githubusercontent.com/G0DBeasT/G0DBeasT/output/activity-graph.svg" alt="Activity Graph" />
     </td>
   </tr>
 </table>
