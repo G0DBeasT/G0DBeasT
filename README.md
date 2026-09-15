@@ -40,7 +40,7 @@
 [![Harsh profile views](https://u8views.com/api/v1/github/profiles/178871686/views/total-count.svg)](https://u8views.com/github/G0DBeasT)
 <div align="center">
 
-*"To many things to do."*
+*"Too many things to do."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
